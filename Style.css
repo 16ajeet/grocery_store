@@ -122,7 +122,7 @@
 .row-3{
     text-align: justify;
     color: #666666;
-    font-size: 15px;
+    font-size: 18px;
     padding:10px;
 }
 
@@ -135,14 +135,14 @@
 .row-2>p{
     text-align: justify;
     color: #666666;
-    font-size: 12px;
+    font-size: 18px;
     width: 35%;
 }
 
 .download-section>p{
     color: #666666;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 18px;
     margin: 16px;
 }
 .download-btns{
@@ -189,7 +189,7 @@ table{
 td{
     padding: 3px 10px;
     color: #666666;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 
